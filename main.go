@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Merge-Conflict")
+	fmt.Println("Merge")
+	fmt.Println("Conflict")
 }
